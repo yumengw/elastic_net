@@ -4,7 +4,9 @@
 * More molecular profiles can be easily added into the model, such as protein expression and miRNA expression data.
 
 # Usage
-* Rscript elastic_net_regression.R
+```
+Rscript elastic_net_regression.R
+```
 
 # Dependencies
 * R (>= 3.1.0)
