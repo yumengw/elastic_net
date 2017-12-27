@@ -8,4 +8,4 @@
 
 # Dependencies
 * R (>= 3.1.0)
-* R package [glmnet] (https://cran.r-project.org/web/packages/glmnet/index.html)
+* R package [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
